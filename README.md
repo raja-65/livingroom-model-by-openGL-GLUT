@@ -37,9 +37,7 @@ Before running this project, ensure you have the following dependencies installe
 - `main.c`: The main source code file containing the OpenGL rendering code.
 - `README.md`: This file providing information about the project.
 
-## Screenshots
-
-![Living Room Model](WhatsApp Image 2024-05-04 at 16.02.35_ee0b79d0.jpg)
+## For images look in main branch :)
 
 ## Acknowledgments
 
