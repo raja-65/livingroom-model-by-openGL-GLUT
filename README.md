@@ -39,7 +39,7 @@ Before running this project, ensure you have the following dependencies installe
 
 ## Screenshots
 
-![Living Room Model](screenshots/living_room_model.png)
+![Living Room Model](WhatsApp Image 2024-05-04 at 16.02.35_ee0b79d0.jpg)
 
 ## Acknowledgments
 
