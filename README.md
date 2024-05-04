@@ -37,6 +37,10 @@ Before running this project, ensure you have the following dependencies installe
 - `main.c`: The main source code file containing the OpenGL rendering code.
 - `README.md`: This file providing information about the project.
 
+## Screenshots
+
+![Living Room Model](screenshots/living_room_model.png)
+
 ## Acknowledgments
 
 This project was created as a learning exercise and is inspired by various OpenGL tutorials and resources available online.
